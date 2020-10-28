@@ -1,2 +1,10 @@
 [project]
 name = lektor-portfolio
+
+[servers.ghpages]
+name = Production
+enabled = yes
+default = yes
+target = ghpages+https://Valyay:b076c4ce73c62be5bcdb1e61407756900220bcce@Valyay/Valyay.github.io
+
+
